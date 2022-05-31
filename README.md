@@ -7,6 +7,7 @@ This is a POC for secure file uploading, user can upload files to a location wit
 Usage
 
 pip install cryptography
+mkdir upload_location
 
 python3 sfu.py
 
